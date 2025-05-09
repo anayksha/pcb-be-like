@@ -5,11 +5,11 @@ So this is a really sketchy h-bridge circuit that is capable of running the vibr
 ![](images/schematic.png)
 
 # PCB
-I hid the silkscreens over here because it got really cluttered but the silksceens are on the next images
+I hid the silkscreens over here because it got really cluttered but the silksceens are on the next images<br>
 ![](images/pcb.png)<br><br>
 
-Since the least amount of pcbs I can buy is 5, I wanted to do something with the extras, and so I thought of making the back silkscreen layer some kind of dog tags of Jorge from halo reach.
-![](images/3d_pcb_front.png) ![](images/3d_pcb_back.png)<br>
+Since the least amount of pcbs I can buy is 5, I wanted to do something with the extras, and so I thought of making the back silkscreen layer some kind of dog tags of Jorge from halo reach.<br>
+![](images/3d_pcb_front.png) ![](images/3d_pcb_back.png)
 
 # BOM
 * 1x battery holder
